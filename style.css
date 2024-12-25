@@ -1,0 +1,102 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    color: inherit;
+    list-style: none;
+    text-decoration: none;
+  }
+
+  .text1{
+    color: black;
+    background-color: aqua;
+  }
+
+.text1:hover{
+    color: blue;
+    background-color: black;
+}
+.text2{
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+  }
+  .text2:hover{
+    color: rgb(255, 0, 179);
+    background-color: rgb(255, 0, 0);
+}
+
+.text3{
+    color: rgb(255, 79, 179);
+    background-color: rgb(0, 0, 0);
+  }
+  .text3:hover{
+    color: rgb(82, 7, 188);
+    background-color: rgb(224, 220, 140);
+}
+.text4{
+    color: rgb(229, 229, 229);
+    background-color: rgb(50, 30, 30);
+  }
+  .text4:hover{
+    color: rgb(82, 7, 188);
+    background-color: rgb(224, 220, 140);
+}
+.text5{
+    color: rgb(135, 23, 75);
+    background-color: rgb(31, 25, 25);
+  }
+  .text5:hover{
+    color: rgb(82, 7, 188);
+    background-color: rgb(179, 179, 179);
+}
+.text6{
+    color: rgb(135, 23, 75);
+    background-color: rgb(31, 25, 25);
+  }
+  .text6:hover{
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 26, 26);
+}
+.text7{
+    color: rgb(0, 0, 0);
+    background-color: rgb(85, 0, 255);
+  }
+  .text7:hover{
+    color: rgb(82, 7, 188);
+    background-color: rgb(179, 179, 179);
+}
+.text8{
+    color: rgb(65, 255, 7);
+    background-color: rgb(242, 255, 0);
+  }
+  .text8:hover{
+    color: rgb(0, 0, 0);
+    background-color: rgb(179, 179, 179);
+}
+.text9{
+    color: rgb(65, 255, 7);
+    background-color: rgb(242, 255, 0);
+  }
+  .text9:hover{
+    color: rgb(0, 209, 250);
+    background-color: rgb(255, 0, 0);
+}
+.text10{
+    color: rgb(65, 255, 7);
+    background-color: rgb(0, 0, 0);
+  }
+  .text10:hover{
+    color: rgb(0, 209, 250);
+    background-color: rgb(240, 103, 103);
+}
+
+
+.bil{
+    color: aqua;
+    background-color: rgb(255, 17, 0);
+}
+
+.bil:active{
+color: rgb(0, 255, 21);
+background-color: rgb(0, 0, 0);
+}
